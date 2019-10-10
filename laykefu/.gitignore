@@ -1,0 +1,14 @@
+.git
+.idea/*
+.env
+composer.lock
+*.log
+runtime/*
+public/uploads/*
+vendor/composer/*
+vendor/topthink/*
+vendor/workerman/gateway-worker/*
+vendor/workerman/workerman/*
+vendor/workerman/globaldata/*
+vendor/workerman/workerman.log
+vendor/zoujingli/*
